@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\bin\Debug\lr-ws-6-10.exe.config
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\bin\Debug\lr-ws-6-10.exe
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\bin\Debug\lr-ws-6-10.pdb
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr-ws-6-10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr_ws_6_10.AuthorizationForm.resources
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr_ws_6_10.Form1.resources
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr_ws_6_10.Properties.Resources.resources
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr-ws-6-10.csproj.GenerateResource.cache
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr-ws-6-10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr-ws-6-10.exe
+C:\Users\user\source\repos\lr-ws-6-10\lr-ws-6-10\obj\Debug\lr-ws-6-10.pdb
